@@ -2,9 +2,7 @@
 
 - 👋 Hi, I’m Hưng, Front-end developer
 - 👀 I am a passionate and experienced Senior Front End Developer specializing in creating responsive, high-performance web and mobile applications. With over 10 years of expertise, I excel in:
-- Working on Demos (tech stack: ReactJS, NodeJS MongoDB, ExpressJS, typscript, Material UI): 
-https://raksul-price-table-peach.vercel.app (This domain will be transferred to a new domain in a few days. I will officially update it here. Thank you for your attention!)
-  
+
 ### Frontend Technologies: 
 * Proficient in ReactJS, React Native, NextJS, and modern front-end technologies.
 
@@ -25,6 +23,9 @@ https://raksul-price-table-peach.vercel.app (This domain will be transferred to 
  
 ### Industry Experience: 
 * Background in sectors like Education, E-commerce, Fitness, finance, Logistics and securities, providing domain-specific solutions.
+
+- Working on Demos (tech stack: ReactJS, NodeJS MongoDB, ExpressJS, typscript, Material UI): 
+https://raksul-price-table-peach.vercel.app (This domain will be transferred to a new domain in a few days. I will officially update it here. Thank you for your attention!)
 
 I am committed to delivering high-quality, maintainable code that follows industry best practices. Let’s collaborate to bring your projects to life!
 
