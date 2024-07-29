@@ -4,7 +4,7 @@
 - 👀 I am a passionate and experienced Senior Front End Developer specializing in creating responsive, high-performance web and mobile applications. With over 10 years of expertise, I excel in:
   
 ### Frontend Technologies: 
-	* Proficient in ReactJS, React Native, NextJS, and modern front-end technologies.
+* Proficient in ReactJS, React Native, NextJS, and modern front-end technologies.
 	
 ### Backend Technologies: 
 	* NodeJS, Express, MongoDB and modern back-end technologies.
