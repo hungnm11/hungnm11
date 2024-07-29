@@ -5,6 +5,7 @@
   
 ### Frontend Technologies: 
 * Proficient in ReactJS, React Native, NextJS, and modern front-end technologies.
+
 ### Backend Technologies: 
 * NodeJS, Express, MongoDB and modern back-end technologies.
 
