@@ -19,7 +19,7 @@
 * Experienced in optimizing rendering and data flow to enhance application performance.
  
 ### Tools & Practices: 
-* Knowledgeable in Git for version control, DevOps, CI/CD, and Agile methodologies.
+* Knowledgeable in Git for version control, Docker, CI/CD, and Agile methodologies.
  
 ### Industry Experience: 
 * Background in sectors like Education, E-commerce, Fitness, finance, Logistics and securities, providing domain-specific solutions.
