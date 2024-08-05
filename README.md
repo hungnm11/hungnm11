@@ -61,13 +61,6 @@ Features To-Do (Planned Enhancements)
 	•	Order history tracking for users to view past purchases.
 	•	Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
 
-Technical Stack
-
-	•	Frontend: React with Material-UI for building a responsive and modern user interface.
-	•	Backend: Node.js and Express for handling server-side logic and API endpoints.
-	•	State Management: Context API for managing cart state and interactions.
-	•	Utilities: Various utility functions for formatting and data handling.
-
 How to Use the Demo
 
 	1.	Browse the Price Table: View detailed product information in the price table.
