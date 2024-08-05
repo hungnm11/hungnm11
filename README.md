@@ -15,17 +15,10 @@ I am committed to delivering high-quality, maintainable code that follows indust
 
 ### Working on Demos: 
 - [https://dev-showcase-peach.vercel.app](https://dev-showcase-peach.vercel.app) (This domain has been successfully transferred from the old domain. I will officially update it here. Thank you for your attention!)
-- Tech Stack:
-  - ReactJS
-  - NodeJS
-  - MongoDB
-  - ExpressJS
-  - Typscript
-  - Material UI
  
   Technical Stack
-  - Frontend: React with Material-UI for building a responsive and modern user interface.
-  - Backend: Node.js and Express for handling server-side logic and API endpoints.
+  - Frontend: ReactJS Typscript with Material-UI for building a responsive and modern user interface.
+  - Backend: Node.js, Express, Typscript and MongoDB for handling server-side logic and API endpoints.
   - State Management: Context API for managing cart state and interactions.
   - Utilities: Various utility functions for formatting and data handling.
 
