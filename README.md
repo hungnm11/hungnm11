@@ -25,10 +25,10 @@ I am committed to delivering high-quality, maintainable code that follows indust
  
   Technical Stack
 
-	•	Frontend: React with Material-UI for building a responsive and modern user interface.
-	•	Backend: Node.js and Express for handling server-side logic and API endpoints.
-	•	State Management: Context API for managing cart state and interactions.
-	•	Utilities: Various utility functions for formatting and data handling.
+	• Frontend: React with Material-UI for building a responsive and modern user interface.
+	• Backend: Node.js and Express for handling server-side logic and API endpoints.
+	• State Management: Context API for managing cart state and interactions.
+	• Utilities: Various utility functions for formatting and data handling.
 
 ### API Documentation: 
 - [https://server-node-typescript.vercel.app/docs](https://server-node-typescript.vercel.app/docs)
