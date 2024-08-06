@@ -47,26 +47,26 @@ Current Features
 
 Features To-Do (Planned Enhancements)
 
-	1.	Apply Authentication:
-	•	Implement user authentication to secure the cart and checkout processes.
-	•	Provide personalized user experiences with account-specific cart data.
-	2.	Update Cart:
-	•	Enable users to update item quantities directly within the cart.
-	•	Automatically calculate and display the total price based on updated quantities.
-	3.	Checkout Cart:
-	•	Integrate a secure and user-friendly checkout process.
-	•	Support for various payment methods to facilitate seamless transactions.
-	4.	More Features:
-	•	Wishlist functionality to allow users to save items for later.
-	•	Order history tracking for users to view past purchases.
-	•	Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
+	1. Apply Authentication:
+	 • Implement user authentication to secure the cart and checkout processes.
+	 • Provide personalized user experiences with account-specific cart data.
+	2. Update Cart:
+	 • Enable users to update item quantities directly within the cart.
+	 • Automatically calculate and display the total price based on updated quantities.
+	3. Checkout Cart:
+	 • Integrate a secure and user-friendly checkout process.
+	 • Support for various payment methods to facilitate seamless transactions.
+	4. More Features:
+	 • Wishlist functionality to allow users to save items for later.
+	 • Order history tracking for users to view past purchases.
+	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
 
 How to Use the Demo
 
-	1.	Browse the Price Table: View detailed product information in the price table.
-	2.	Add Items to Cart: Click on the “Add to Cart” button to add items without needing to log in.
-	3.	View and Manage Cart: Click on the cart icon to view the cart’s contents, update item quantities, or remove items.
-	4.	Take the Node.js Quiz: Navigate to the quiz section to test your knowledge and learn more about Node.js.
+	1. Browse the Price Table: View detailed product information in the price table.
+	2. Add Items to Cart: Click on the “Add to Cart” button to add items without needing to log in.
+	3. View and Manage Cart: Click on the cart icon to view the cart’s contents, update item quantities, or remove items.
+	4. Take the Node.js Quiz: Navigate to the quiz section to test your knowledge and learn more about Node.js.
 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
