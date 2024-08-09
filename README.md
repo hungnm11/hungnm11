@@ -45,6 +45,13 @@ Current Features
 	 • An engaging quiz section designed to test users’ knowledge of Node.js.
 	 • A variety of questions to challenge users and help them learn more about Node.js fundamentals and advanced topics.
 
+Features Done
+
+	09/08/2024
+	2. Update Cart:
+	 • Enable users to update item quantities directly within the cart.
+	 • Automatically calculate and display the total price based on updated quantities.
+
 Features To-Do (Planned Enhancements)
 
 	1. Apply Authentication:
