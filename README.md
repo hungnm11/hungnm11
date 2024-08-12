@@ -65,6 +65,31 @@ Features To-Do (Planned Enhancements)
 	 • Order history tracking for users to view past purchases.
 	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
 
+Features Improvement (Planned Enhancements)
+
+	2. Real-Time “Update Cart” Using WebSocket and Socket.IO
+	
+The “Update Cart” feature will be enhanced to support real-time updates of the total price using WebSocket technology, specifically with the integration of Socket.IO. This improvement will allow for a seamless and instantaneous update of the cart’s total price across all connected clients as soon as any changes occur in the cart’s contents, such as item quantity adjustments.
+
+Key Enhancements:
+
+	1. Real-Time Price Synchronization:
+	 • The total price of the cart will now be updated in real-time whenever a user modifies the quantity of any item in the cart. This ensures that all users connected to the same session or cart will see the updated total price instantly without needing to refresh the page.
+	2. Persistent WebSocket Connection:
+	 • A persistent WebSocket connection will be established between the client and server, enabling continuous two-way communication. This connection will be maintained using Socket.IO, which provides reliable event-based communication over WebSocket.
+	3. Immediate Feedback and Error Handling:
+	 • Users will receive immediate feedback when they update item quantities, including any errors that might occur, such as attempting to set a quantity lower than allowed. This real-time interaction improves the user experience by ensuring that all changes are reflected instantly and accurately.
+	4. Scalability and Efficiency:
+	 • The WebSocket-based approach is designed to be scalable, allowing multiple users to interact with the cart simultaneously while ensuring that all views of the cart remain consistent and up-to-date. This method also reduces the need for frequent server polling, enhancing overall performance.
+	5. Automatic Recalculation and Database Synchronization:
+	 • Whenever an item is added, removed, or its quantity is changed, the server will automatically recalculate the cart’s total price and update the value in the MongoDB database. This ensures that the stored data always reflects the current state of the cart.
+
+Implementation Overview:
+
+	• Server-Side: The server will listen for cart update events (e.g., item quantity changes) via WebSocket. Upon receiving an update, the server will recalculate the total price, update the cart in the database, and broadcast the updated cart data to all connected clients.
+	• Client-Side: Clients will establish a WebSocket connection upon loading the cart. Any changes made to the cart by any user will trigger a real-time update, ensuring that all users have a synchronized view of the cart, including the updated total price.
+
+
 How to Use the Demo
 
 	1. Browse the Price Table: View detailed product information in the price table.
