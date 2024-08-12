@@ -25,6 +25,13 @@ I am committed to delivering high-quality, maintainable code that follows indust
 ### API Documentation: 
 - [https://server-node-typescript.vercel.app/docs](https://server-node-typescript.vercel.app/docs)
 
+How to Use the Demo
+
+	1. Browse the Price Table: View detailed product information in the price table.
+	2. Add Items to Cart: Click on the “Add to Cart” button to add items without needing to log in.
+	3. View and Manage Cart: Click on the cart icon to view the cart’s contents and remove items.
+	4. Take the Node.js Quiz: Navigate to the quiz section to test your knowledge and learn more about Node.js.
+
 ### Demo Description
 
 Overview
@@ -88,14 +95,6 @@ Implementation Overview:
 
 	• Server-Side: The server will listen for cart update events (e.g., item quantity changes) via WebSocket. Upon receiving an update, the server will recalculate the total price, update the cart in the database, and broadcast the updated cart data to all connected clients.
 	• Client-Side: Clients will establish a WebSocket connection upon loading the cart. Any changes made to the cart by any user will trigger a real-time update, ensuring that all users have a synchronized view of the cart, including the updated total price.
-
-
-How to Use the Demo
-
-	1. Browse the Price Table: View detailed product information in the price table.
-	2. Add Items to Cart: Click on the “Add to Cart” button to add items without needing to log in.
-	3. View and Manage Cart: Click on the cart icon to view the cart’s contents and remove items.
-	4. Take the Node.js Quiz: Navigate to the quiz section to test your knowledge and learn more about Node.js.
 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
