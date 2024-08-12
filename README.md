@@ -67,9 +67,9 @@ Features To-Do (Planned Enhancements)
 
 Features Improvement (Planned Enhancements)
 
-	2. Real-Time “Update Cart” Using WebSocket and Socket.IO
+	2. Real-Time “Update Cart” Using WebSocket and Socket.IO: The “Update Cart” feature will be enhanced to support real-time updates of the total price using WebSocket technology, specifically with the integration of Socket.IO. This improvement will allow for a seamless and instantaneous update of the cart’s total price across all connected clients as soon as any changes occur in the cart’s contents, such as item quantity adjustments.
 	
-The “Update Cart” feature will be enhanced to support real-time updates of the total price using WebSocket technology, specifically with the integration of Socket.IO. This improvement will allow for a seamless and instantaneous update of the cart’s total price across all connected clients as soon as any changes occur in the cart’s contents, such as item quantity adjustments.
+
 
 Key Enhancements:
 
