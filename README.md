@@ -25,6 +25,8 @@ I am committed to delivering high-quality, maintainable code that follows indust
 ### API Documentation: 
 - [https://server-node-typescript.vercel.app/docs](https://server-node-typescript.vercel.app/docs)
 
+ Note: Due to Vercel’s server limitations on free accounts, certain features such as Redis, clustering, and load balancing cannot be applied…
+
 How to Use the Demo
 
 	1. Browse the Price Table: View detailed product information in the price table.
