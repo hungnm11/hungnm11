@@ -67,7 +67,9 @@ Features To-Do (Planned Enhancements)
 	3. Checkout Cart:
 	 • Integrate a secure and user-friendly checkout process.
 	 • Support for various payment methods to facilitate seamless transactions.
-	4. More Features:
+	4. Apply State Management:
+	 • Integrate Redux Saga, Redux Toolkit and RTK Query.
+	5. More Features:
 	 • Wishlist functionality to allow users to save items for later.
 	 • Order history tracking for users to view past purchases.
 	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
