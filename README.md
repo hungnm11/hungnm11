@@ -9,7 +9,7 @@
 - UI/UX Design: Skilled in transforming UI designs into functional, accessible front-end components using tools like Sketch, Zeplin, and Figma.
 - Performance Optimization: Experienced in optimizing rendering and data flow to enhance application performance.
 - Tools & Practices: Knowledgeable in Git for version control, Docker, CI/CD, and Agile methodologies.
-- Industry Experience: Background in sectors like Education, E-commerce, Fitness, finance, Healthcare, Logistics and securities, providing domain-specific solutions.
+- Industry Experience: Background in sectors like Education, E-commerce, Fitness, Finance, Healthcare and Logistics, providing domain-specific solutions.
 
 I am committed to delivering high-quality, maintainable code that follows industry best practices. Let’s collaborate to bring your projects to life!
 
