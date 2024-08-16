@@ -19,7 +19,7 @@ I am committed to delivering high-quality, maintainable code that follows indust
   Technical Stack
   - Frontend: ReactJS Typscript with Material-UI for building a responsive and modern user interface.
   - Backend: Node.js, Express, Typscript and MongoDB for handling server-side logic and API endpoints.
-  - State Management: Context API for managing cart state and interactions.
+  - State Management: Redux Saga, Redux Toolkit, Context API for managing cart state and interactions.
   - Utilities: Various utility functions for formatting and data handling.
 
 ### API Documentation: 
