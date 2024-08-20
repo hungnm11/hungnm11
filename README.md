@@ -76,7 +76,7 @@ Features To-Do (Planned Enhancements)
 	 • Order history tracking for users to view past purchases.
 	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
 
-Features Improvement (Planned Enhancements)
+Features Improvement (Planned Enhancements but cannot apply these by limitation from Vercel Server)
 
 	2. Real-Time “Update Cart” Using WebSocket and Socket.IO: The “Update Cart” feature will be enhanced to support real-time updates of the total price using WebSocket technology, specifically with the integration of Socket.IO. This improvement will allow for a seamless and instantaneous update of the cart’s total price across all connected clients as soon as any changes occur in the cart’s contents, such as item quantity adjustments.
 	
