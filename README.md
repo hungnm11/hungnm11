@@ -100,7 +100,7 @@ Implementation Overview:
 	• Server-Side: The server will listen for cart update events (e.g., item quantity changes) via WebSocket. Upon receiving an update, the server will recalculate the total price, update the cart in the database, and broadcast the updated cart data to all connected clients.
 	• Client-Side: Clients will establish a WebSocket connection upon loading the cart. Any changes made to the cart by any user will trigger a real-time update, ensuring that all users have a synchronized view of the cart, including the updated total price.
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
