@@ -30,9 +30,10 @@ I am committed to delivering high-quality, maintainable code that follows indust
 How to Use the Demo
 
 	1. Browse the Price Table: View detailed product information in the price table.
-	2. Add Items to Cart: Click on the “Add to Cart” button to add items and needing to log in.
+	2. Add Items to Cart: Select a plan and click the “Add to Cart” button. If you are not logged in, you will be prompted to authenticate. After logging in, your selected items will appear in the cart section.
 	3. View and Manage Cart: Click on the cart icon to view the cart’s contents and remove items.
 	4. Take the Node.js Quiz: Navigate to the quiz section to test your knowledge and learn more about Node.js.
+ 	5. Interact with Authentication: Use the login and signup forms to create a new account or log into an existing one. Try out the current authentication features and suggest improvements.
 
 ### Demo Description
 
