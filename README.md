@@ -47,7 +47,7 @@ Current Features
 	 • A comprehensive table displaying various products with detailed information including paper size, price, quantity, and business day.
 	 • Styled table cells for a clean and user-friendly interface.
 	2. Add to Cart:
-	 • Users can add items to the cart directly from the price table without the need for authentication.
+	 • Users can add items to the cart directly from the price table and the need for authentication.
 	 • Real-time updates of cart contents displayed with a badge indicating the number of items in the cart.
 	 • Dynamic handling of item quantities with an interactive number input field.
 	 • Ability to remove items from the cart seamlessly, with the cart updating instantly to reflect changes.
