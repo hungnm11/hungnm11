@@ -57,6 +57,11 @@ Current Features
 
 Features Done
 
+ 	27/08/2024
+	1. Apply Authentication:
+	 • Implement user authentication to secure the cart and checkout processes.
+	 • Provide personalized user experiences with account-specific cart data.
+
 	09/08/2024
 	2. Update Cart:
 	 • Enable users to update item quantities directly within the cart.
@@ -64,9 +69,6 @@ Features Done
 
 Features To-Do (Planned Enhancements)
 
-	1. Apply Authentication:
-	 • Implement user authentication to secure the cart and checkout processes.
-	 • Provide personalized user experiences with account-specific cart data.
 	3. Checkout Cart:
 	 • Integrate a secure and user-friendly checkout process.
 	 • Support for various payment methods to facilitate seamless transactions.
