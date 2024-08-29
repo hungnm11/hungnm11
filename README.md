@@ -5,7 +5,7 @@
 
 - Frontend Technologies: Proficient in ReactJS, React Native, NextJS, Material UI, Tailwind, Bootstrap, Element UI and modern front-end technologies.
 - Backend Technologies: NodeJS, Express, MongoDB and modern back-end technologies.
-- State Management: Redux, Redux Saga, Redux Toolkit, RTK Query and other state management tools.
+- State Management: Redux, Redux Saga, Redux Toolkit and other state management tools.
 - UI/UX Design: Skilled in transforming UI designs into functional, accessible front-end components using tools like Sketch, Zeplin, and Figma.
 - Performance Optimization: Experienced in optimizing rendering and data flow to enhance application performance.
 - Tools & Practices: Knowledgeable in Git for version control, Docker, CI/CD, and Agile methodologies.
@@ -19,7 +19,7 @@ I am committed to delivering high-quality, maintainable code that follows indust
   Technical Stack
   - Frontend: ReactJS Typscript with Material-UI for building a responsive and modern user interface.
   - Backend: Node.js, Express, Typscript and MongoDB for handling server-side logic and API endpoints.
-  - State Management: Redux Saga, Redux Toolkit, Context API for managing cart state and interactions.
+  - State Management: Redux Saga, Redux Toolkit, Context API, RTK Query for managing cart state and interactions.
   - Utilities: Various utility functions for formatting and data handling.
 
 ### API Documentation: 
