@@ -101,6 +101,17 @@ Implementation Overview:
 	• Server-Side: The server will listen for cart update events (e.g., item quantity changes) via WebSocket. Upon receiving an update, the server will recalculate the total price, update the cart in the database, and broadcast the updated cart data to all connected clients.
 	• Client-Side: Clients will establish a WebSocket connection upon loading the cart. Any changes made to the cart by any user will trigger a real-time update, ensuring that all users have a synchronized view of the cart, including the updated total price.
 
+### Working on Demos: 
+
+- [https://nextjs-showcase-lake.vercel.app](https://nextjs-showcase-lake.vercel.app)
+ 
+  Technical Stack
+  - Frontend: NextJS Typscript with Material-UI for building a responsive and modern user interface.
+  - Backend: Node.js, Express, Typscript and MongoDB for handling server-side logic and API endpoints.
+  - State Management: Redux Saga, Redux Toolkit, Context API, RTK Query for managing cart state and interactions.
+  - Utilities: Various utility functions for formatting and data handling.
+
+
 - 🌱 I’m currently learning Python, PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
