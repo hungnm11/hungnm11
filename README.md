@@ -1,6 +1,6 @@
 ## Bio
 
-- 👋 Hi, I’m Hưng, Front-end developer
+- 👋 Hi, I’m Hưng, Innovation Software Engineer
 - 👀 I am a passionate and experienced Senior Front End Developer specializing in creating responsive, high-performance web and mobile applications. With over 10 years of expertise, I excel in:
 
 - Frontend Technologies: Proficient in ReactJS, React Native, NextJS, Material UI, Tailwind, Bootstrap, Element UI and modern front-end technologies.
