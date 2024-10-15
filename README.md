@@ -66,7 +66,8 @@ Features Done
 	 • Automatically calculate and display the total price based on updated quantities.
   
 	3. Redis has added
-	 • Enabled get the prices API 
+	 • Enabled get prices API
+  	 • Enabled get carts API 
 
 Features To-Do (Planned Enhancements)
 
