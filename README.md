@@ -67,7 +67,7 @@ Features Done
   
 	3. Redis has added
 	 • Enabled get prices API
-  	 • Enabled get carts API 
+  	 • Enabled get carts API (Disabled)
 
 Features To-Do (Planned Enhancements)
 
