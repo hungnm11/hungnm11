@@ -85,9 +85,9 @@ Test Payments with Stripe Test Card
 
 	Use the following Stripe test card details for testing payments:
 
-	•	Card number: 4242 4242 4242 4242
-	•	Expiry: Any valid future date
-	•	CVC: Any 3 digits
+	• Card number: 4242 4242 4242 4242
+	• Expiry: Any valid future date
+	• CVC: Any 3 digits
 
 	This will simulate a successful payment when you submit the form.
 
