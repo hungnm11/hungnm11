@@ -89,6 +89,12 @@ Test Payments with Stripe Test Card
 	• Expiry: Any valid future date
 	• CVC: Any 3 digits
 
+ 	Card number			Scenario								How to test
+	4242 4242 4242 4242		The card payment succeeds and doesn’t require authentication.		Fill out the credit card form using the credit card number with any expiration, CVC, and postal code.
+	4000 0025 0000 3155		The card payment requires authentication.				Fill out the credit card form using the credit card number with any expiration, CVC, and postal code.
+	4000 0000 0000 9995		The card is declined with a decline code like insufficient_funds.	Fill out the credit card form using the credit card number with any expiration, CVC, and postal code.
+	6205 5000 0000 0000 004		The UnionPay card has a variable length of 13-19 digits.		Fill out the credit card form using the credit card number with any expiration, CVC, and postal code.
+
 	This will simulate a successful payment when you submit the form.
 
 Features Improvement (Planned Enhancements but cannot apply these by limitation from Vercel Server)
