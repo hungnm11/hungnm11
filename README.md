@@ -39,7 +39,7 @@ How to Use the Demo
 
 Overview
 
-This demo showcases an e-commerce application with a price table, a functional “Add to Cart” feature, and an interactive quiz section for Node.js questions. This is an initial prototype focusing on essential e-commerce functionalities without requiring user authentication. It serves as a foundation for a more comprehensive application with advanced features to be added in future updates.
+This demo highlights an advanced e-commerce application featuring a dynamic price table, user authentication, and a fully functional shopping cart. Users can add, update, and delete cart items seamlessly. The integration of Stripe enables secure checkout for a smooth purchasing experience. This prototype serves as a robust foundation for ongoing enhancements, ensuring that each aspect of the application will improve over time, catering to user needs and evolving e-commerce standards. It serves as a foundation for a more comprehensive application with advanced features to be added in future updates.
 
 Current Features
 
