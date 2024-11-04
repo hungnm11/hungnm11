@@ -61,11 +61,11 @@ Features Done
 	 • Implement user authentication to secure the cart and checkout processes.
 	 • Provide personalized user experiences with account-specific cart data.
 
-	2. Update Cart (Planned Enhancements again):
+	2. Update Cart:
 	 • Enable users to update item quantities directly within the cart. 
 	 • Automatically calculate and display the total price based on updated quantities.
 
-  	3. Checkout Cart:
+  	3. Checkout Cart (Planned Enhancements again):
 	 • Integrate a secure and user-friendly checkout process with Stripe Payment.
 	 • Support for various payment methods to facilitate seamless transactions.
 
