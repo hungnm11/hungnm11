@@ -61,21 +61,23 @@ Features Done
 	 • Implement user authentication to secure the cart and checkout processes.
 	 • Provide personalized user experiences with account-specific cart data.
 
-	2. Update Cart:
-	 • Enable users to update item quantities directly within the cart.
+	2. Update Cart (Planned Enhancements again):
+	 • Enable users to update item quantities directly within the cart. 
 	 • Automatically calculate and display the total price based on updated quantities.
-  
-	3. Redis has added
+
+  	3. Checkout Cart:
+	 • Integrate a secure and user-friendly checkout process with Stripe Payment.
+	 • Support for various payment methods to facilitate seamless transactions.
+
+	4. Apply State Management:
+	 • Integrate Redux Saga, Redux Toolkit and RTK Query.
+
+	6. Redis has added
 	 • Enabled get prices API
   	 • Enabled get carts API (Disabled)
 
 Features To-Do (Planned Enhancements)
 
-	3. Checkout Cart:
-	 • Integrate a secure and user-friendly checkout process.
-	 • Support for various payment methods to facilitate seamless transactions.
-	4. Apply State Management:
-	 • Integrate Redux Saga, Redux Toolkit and RTK Query.
 	5. More Features:
 	 • Wishlist functionality to allow users to save items for later.
 	 • Order history tracking for users to view past purchases.
