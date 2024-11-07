@@ -77,7 +77,7 @@ Features Done
 	 • Enabled get prices API
   	 • Enabled get carts API (Disabled)
 
-	7. Cypress Test
+	7. Cypress Test for APIs
 	 • Login API
 
 Features To-Do (Planned Enhancements)
