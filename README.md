@@ -79,6 +79,7 @@ Features Done
 
 	7. Cypress Test for APIs
 	 • Login API
+ 	 • Register API
 
 Features To-Do (Planned Enhancements)
 
