@@ -66,7 +66,7 @@ Features Done
 	 • Enable users to update item quantities directly within the cart. 
 	 • Automatically calculate and display the total price based on updated quantities.
 
-  	3. Checkout Cart (Planned Enhancements again):
+  	3. Checkout Cart:
 	 • Integrate a secure and user-friendly checkout process with Stripe Payment.
 	 • Support for various payment methods to facilitate seamless transactions.
 
@@ -82,7 +82,8 @@ Features Done
 
 Features To-Do (Planned Enhancements)
 
-	5. More Features:
+	3. Checkout Cart (Planned Enhancements again)
+ 	5. More Features:
 	 • Wishlist functionality to allow users to save items for later.
 	 • Order history tracking for users to view past purchases.
 	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
