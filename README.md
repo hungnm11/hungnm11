@@ -136,7 +136,8 @@ Implementation Overview:
 
 
  ## Future Project
- Personal finance app
+ ### Personal finance app
+
  Managing finances is a gruesome task and what’s a better way to simplify it than with an app? Let’s discuss some features this app could have:
 
 	1. Record income and expenses
