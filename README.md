@@ -134,6 +134,19 @@ Implementation Overview:
 	• Server-Side: The server will listen for cart update events (e.g., item quantity changes) via WebSocket. Upon receiving an update, the server will recalculate the total price, update the cart in the database, and broadcast the updated cart data to all connected clients.
 	• Client-Side: Clients will establish a WebSocket connection upon loading the cart. Any changes made to the cart by any user will trigger a real-time update, ensuring that all users have a synchronized view of the cart, including the updated total price.
 
+
+ ###Future Project
+ Personal finance app
+ Managing finances is a gruesome task and what’s a better way to simplify it than with an app? Let’s discuss some features this app could have:
+
+	1. Record income and expenses
+ 	2. Different categories for income and expenses
+  	3. Can give tags to a transaction
+   	4. Budget planning
+	5. Charts and graphs to view the cash flow, income, and expenses
+	6. Can automate monthly income and fixed expenses
+ 	7. Track your investments
+
 ### Working on Demos: 
 
 - [https://nextjs-showcase-lake.vercel.app](https://nextjs-showcase-lake.vercel.app)
