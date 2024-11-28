@@ -88,7 +88,7 @@ Features To-Do (Planned Enhancements)
 	 • Wishlist functionality to allow users to save items for later.
 	 • Order history tracking for users to view past purchases.
 	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
-  	8. List of products
+  	8. New list of products
    	9. Search for a product
 	10. Add your own products
 	11. Rate and review products
