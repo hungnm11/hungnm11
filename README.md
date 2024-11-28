@@ -90,7 +90,7 @@ Features To-Do (Planned Enhancements)
 	 • Enhanced UI/UX improvements for a more intuitive and enjoyable shopping experience.
   	8. List of products
    	9. Search for a product
-    	10. Add your own products
+	10. Add your own products
 	11. Rate and review products
  	12. Past purchases
 
