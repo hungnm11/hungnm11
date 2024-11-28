@@ -135,7 +135,7 @@ Implementation Overview:
 	• Client-Side: Clients will establish a WebSocket connection upon loading the cart. Any changes made to the cart by any user will trigger a real-time update, ensuring that all users have a synchronized view of the cart, including the updated total price.
 
 
- ###Future Project
+ ## Future Project
  Personal finance app
  Managing finances is a gruesome task and what’s a better way to simplify it than with an app? Let’s discuss some features this app could have:
 
