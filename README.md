@@ -93,6 +93,7 @@ Features To-Do (Planned Enhancements)
 	10. Add your own products
 	11. Rate and review products
  	12. Past purchases
+  	13. Upgrading to version 19
 
 Test Payments with Stripe Test Card
 
